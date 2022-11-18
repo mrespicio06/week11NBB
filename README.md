@@ -1,3 +1,2 @@
 # week11NBB
-# I just change it
-# I just changed it again!
+[![tfsec](https://github.com/mrespicio06/week11NBB/actions/workflows/tfsec.yml/badge.svg)](https://github.com/mrespicio06/week11NBB/actions/workflows/tfsec.yml)
